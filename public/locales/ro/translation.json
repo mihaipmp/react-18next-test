@@ -1,0 +1,7 @@
+{
+  "translations": {
+    "To get started, edit <1>src/App.js</1> and save to reload.": "Pentru a incepe, edit <1>src/App.js</1> and save to reload.",
+    "Welcome to React": "Bun venit to React and react-i18next",
+    "welcome": "Buna <br/> <strong>lume</strong>"
+  }
+}
